@@ -20,7 +20,7 @@
 <br>
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077b5?logo=LinkedIn)](https://linkedin.com/in/muhammad-fahmi-hamzah)
 <br>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-fahmihamzah-1912-e1306c?logo=instagram)](https://instagram.com/fahmihamzah_1912)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-fahmihamzah_1912-e1306c?logo=instagram)](https://instagram.com/fahmihamzah_1912)
 <br>
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-ea4335?logo=gmail)](mailto:fahmi.hamzah1912@gmail.com)
 <br>
