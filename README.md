@@ -46,6 +46,6 @@ Informatics student at **UPN Veteran Jakarta**, focused on UI/UX Design and Cybe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,figma,html,css,js,py,mysql,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,php,blade,tailwind,figma,html,css,js,py,mysql,github,linux,vscode&theme=dark" />
 
 </div>
