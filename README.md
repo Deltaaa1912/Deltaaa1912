@@ -4,7 +4,7 @@
 
 <br>
 
-<code>$ focus → UI/UX Design | CyberSecurity | Web Development</code>
+<code>$ focus → Web Development | CyberSecurity | UI/UX Design</code>
 
 <br><br>
 
